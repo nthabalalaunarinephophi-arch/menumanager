@@ -19,6 +19,11 @@ Developers highlighted on the scenario analysis
 
 
 2.USER INTERFACE DESIGN
+<img width="1440" height="1600" alt="WhatsApp Image 2026-09-09 at 18 32 24" src="https://github.com/user-attachments/assets/14809bcd-e6e2-456a-aa15-45608a9d91fb" /> 
+<img width="860" height="1600" alt="WhatsApp Image 2026-09-09 at 18 32 24 (1)" src="https://github.com/user-attachments/assets/30accb85-2c0e-4e73-81ae-71a2bf0522d0" />
+
+<img width="936" height="1600" alt="WhatsApp Image 2026-09-09 at 18 32 24 (2)" src="https://github.com/user-attachments/assets/e179d9b1-e32d-4cdd-8306-fb8ccf2cd2d5" />
+
 
  
  
