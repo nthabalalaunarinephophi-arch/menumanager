@@ -52,3 +52,9 @@ For the React Native Components, I chose ones that I think are easy for the user
 I also used Button for saving the menu item. This makes it clear to the user what they need to press when they are finished entering the information, lastly, I used a FlatList to display the menu items. This is useful because if the chef has many dishes, they can all be shown in a list.
 Overall, I think my design is fairly simple and user-friendly. I tried not to make it to complicated so the chef can use it without getting confused.
 Medium highlighted on how a design reflection looks like.
+
+
+
+YouTube link:
+https://youtu.be/iYzoljoxqzY?si=FPkB8tTgksbLWfcP
+
