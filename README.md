@@ -59,12 +59,11 @@ YouTube link:
 https://youtu.be/iYzoljoxqzY?si=FPkB8tTgksbLWfcP
 
 
-##change log
+### change log
 
 
 
-
-##1.Manange menu item:
+### 1.Manange menu item:
 
 
 
@@ -72,7 +71,7 @@ manage menu item was added whre the chef can editan existing menu item, update t
 <img width="1918" height="1018" alt="Screenshot 2026-10-26 130614" src="https://github.com/user-attachments/assets/19f5f0d3-0c05-4660-8280-705dd6a05305" /> 
 
 
-##2.Search and filter menu items:
+### 2.Search and filter menu items:
 
 
 The customer will be able to search for a menu item by its name, the customer will also seethe filter menu items by course( Stater, Main Course or Dessert)
@@ -80,7 +79,7 @@ they will be able to also clear the search or filter to display menu items appro
 <img width="1918" height="1017" alt="Screenshot 2026-10-26 131038" src="https://github.com/user-attachments/assets/59ee93f6-d6ab-4397-b843-2a6e51914fd7" />
 
 
-##3.Display menu statistics:
+### 3.Display menu statistics:
 
 
 the total number of menu items will be displayed, also the average price of all menu items will be displayed, the number of the menu items available in each course will display
